@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ahmed Ramadan 👋
 
-<!--
-**ramad0na/ramad0na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Python Developer & Cyber Security Enthusiast** focusing on **ethical hacking**, **web security**, and **network tools**.  
+I love building educational tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ethical hacking projects** and **Python automation tools**
+- 💬 Ask me about **Python**, **Web Security**, **Networking**, **Cyber Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Languages:** Python
+- **Areas:** Web Application Security, Network Security, Penetration Testing, Ethical Hacking
+
+---
+
+## 🏆 Certifications
+| Certificate | Organization | Date Issued | Expiry | Verification |
+|------------|-------------|------------|--------|-------------|
+| 🏆Ethical Hacker | Cisco | May 3, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆Fortinet Certified Associate Cybersecurity | Fortinet | - | Oct 25, 2027 | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆Fortinet FortiGate 7.6 Operator | Fortinet | Oct 25, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆Junior Cybersecurity Analyst Career Path | Cisco | Nov 5, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆Network Security & Database Vulnerabilities | Coursera | Dec 21, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆Penetration Testing, Threat Hunting, and Cryptography | Coursera | Dec 8, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+| 🏆XM Cyber - Exposure Management Expert | XM Cyber | Nov 1, 2025 | - | [Verify](https://www.credly.com/users/ramadona/edit#credly) |
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Language |
+|---------|------------|---------|
+| [auth-tester](https://github.com/ramad0na/auth-tester) | Educational Python script to test web authentication forms | Python |
+| [MACChangerX](https://github.com/ramad0na/MACChangerX) | Python tool to change MAC Address in Linux | Python |
+
+> More projects can be found on my [GitHub repositories](https://github.com/ramad0na?tab=repositories)
+
+---
+
+## 📈 GitHub Stats
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramad0na&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/a-ramadan-m/) – Professional Profile
+- [Credly Certifications](https://www.credly.com/users/ramadona/edit#credly) – Verify my certifications
+
