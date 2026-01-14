@@ -11,7 +11,7 @@ I love building educational tools.
 
 ## 🛠️ Skills
 - **Languages:** Python
-- **Areas:** Web Application Security, Network Security, Penetration Testing, Ethical Hacking
+- **Areas:** Information Security Researcher, Penetration Testing, Ethical Hacking
 
 ---
 
