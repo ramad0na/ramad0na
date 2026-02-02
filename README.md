@@ -3,8 +3,7 @@
 ![Lock](https://i.imgur.com/2nQy1vQ.gif)
 
 ![GitHub Logo](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/GitHub-logo.gif) 
-![Github Logo](https://media1.tenor.com/m/MWO6C6w3YwMAAAAC/hacker.gif).
-
+![Hacker GIF](https://media1.tenor.com/m/MWO6C6w3YwMAAAAC/hacker.gif)
 
 # Hi, I'm Ahmed Ramadan 👋
 
