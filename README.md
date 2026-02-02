@@ -1,3 +1,7 @@
+![Shield](https://i.imgur.com/xXv0OqM.gif)
+![Skull](https://i.imgur.com/pGfYy9P.gif)
+![Lock](https://i.imgur.com/2nQy1vQ.gif)
+
 ![GitHub Logo](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/GitHub-logo.gif)
 
 
