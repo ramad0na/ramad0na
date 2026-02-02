@@ -1,3 +1,6 @@
+![GitHub Logo](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/GitHub-logo.gif)
+
+
 # Hi, I'm Ahmed Ramadan 👋
 
 ## 🚀 About Me
